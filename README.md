@@ -4,6 +4,12 @@ A clean and minimal ToDo List application built with **HTML, CSS and Vanilla Jav
 
 ---
 
+## ▶️ Live Demo
+🔗 **Demo Online:** 
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/virtual-keyboard-ui/)
+
+---
+
 ## 📌 Overview
 
 Taskify is a lightweight task management app that allows users to:
@@ -80,7 +86,27 @@ vanilla-js-todo-app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vanilla-js-todo-app.git
+git clone https://github.com/amirhosseinjamalian/todo-list.git
 ```
 
 ## 📂 Project Structure
+
+🎯 Future Improvements
+
+Add task editing feature
+
+Add filtering (All / Active / Completed)
+
+Add drag & drop reordering
+
+Add dark mode
+
+Refactor storage to use JSON instead of comma split
+
+📄 License
+
+Free to use for learning purposes.
+
+👨‍💻 Author
+
+Developed with ❤️ using Vanilla JavaScript.
