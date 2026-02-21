@@ -6,7 +6,7 @@ A clean and minimal ToDo List application built with **HTML, CSS and Vanilla Jav
 
 ## ▶️ Live Demo
 🔗 **Demo Online:** 
-[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/virtual-keyboard-ui/)
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/todo-list/)
 
 ---
 
