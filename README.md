@@ -10,6 +10,11 @@ A clean and minimal ToDo List application built with **HTML, CSS and Vanilla Jav
 
 ---
 
+## 📸 Screenshot
+![Screenshot](https://raw.githubusercontent.com/amirhosseinjamalian/todo-list/refs/heads/main/fea74380-c8c5-403d-9f1b-edea31f6257c.png)
+
+---
+
 ## 📌 Overview
 
 Taskify is a lightweight task management app that allows users to:
